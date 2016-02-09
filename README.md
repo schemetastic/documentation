@@ -1,2 +1,3 @@
-# documentation
-This repository will contain in the different branches the documentation of my projects
+# Schemetastic Documentation
+Are you using or want to use one of my products or products?
+You are in the right place this repository is dedicated to that.
